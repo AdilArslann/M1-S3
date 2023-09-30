@@ -20,7 +20,7 @@ Before you begin, make sure you have Python installed on your computer. You can 
 
 To use this program:
 
-1. Clone this GitHub repository: [link-to-your-repo](https://github.com/AdilArslann/M1-S3)
+1. Clone this GitHub repository
 2. Open your terminal and navigate to the project directory.
 3. Run the program by executing `python main.py`.
 
